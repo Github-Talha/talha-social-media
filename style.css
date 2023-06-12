@@ -315,3 +315,22 @@ nav {
   color: #1876f2;
   text-decoration: none;
 }
+.post-image {
+  width: 100%;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.post-row{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.post-activities div{
+  display:inline-flex;
+  align-items: center;
+  margin-right: 30px;
+}
+.post-activities div img{
+  width: 18px;
+  margin-right: 10px;
+}
